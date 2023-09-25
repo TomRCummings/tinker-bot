@@ -1,0 +1,4 @@
+.env
+node_modules
+persist.json
+test.js
